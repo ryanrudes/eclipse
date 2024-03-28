@@ -10,3 +10,7 @@ Then, run `search.py` to search for flight plans
 ```
 python search.py
 ```
+Then, run `match.py` to display flight plans
+```
+python match.py
+```
